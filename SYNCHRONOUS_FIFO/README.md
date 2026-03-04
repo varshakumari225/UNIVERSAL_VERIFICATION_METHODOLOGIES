@@ -126,5 +126,5 @@ On-chip memory validation
 
 ### 👩‍💻 Author
 
-**G Varsha
-VLSI / Verification**
+**G Varsha**
+**VLSI / Verification**
