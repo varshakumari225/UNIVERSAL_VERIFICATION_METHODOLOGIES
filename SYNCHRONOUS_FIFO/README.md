@@ -1,5 +1,6 @@
-**  SYNCHRONOUS FIFO – UVM Verification Project **
-**Overview**
+# **SYNCHRONOUS FIFO – UVM Verification Project**
+
+## **Overview**
 
 This project implements and verifies a Synchronous FIFO (First-In-First-Out) using SystemVerilog and Universal Verification Methodology (UVM).
 
@@ -11,7 +12,7 @@ One Read Agent
 
 Each agent operates independently with its own driver, sequencer, and monitor. A Virtual Sequencer and Virtual Sequence are used to coordinate read and write operations.
 
- **Architecture**
+ ## **Architecture**
 🔹 Design Features
 
 Single clock (Synchronous FIFO)
@@ -24,7 +25,7 @@ Read Enable (rd_en)
 
 Full and Empty flags
 
-** Verification Architecture**
+##**Verification Architecture**
 🔹 Write Agent
 
 Write Driver
