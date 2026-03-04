@@ -25,7 +25,7 @@ Read Enable (rd_en)
 
 Full and Empty flags
 
-##**Verification Architecture**
+## **Verification Architecture**
 🔹 Write Agent
 
 Write Driver
@@ -46,7 +46,7 @@ Read Monitor
 
 Responsible for generating and driving read transactions from the DUT.
 
-** Virtual Layer**
+## **Virtual Layer**
 🔹 Virtual Sequencer
 
 Connects:
@@ -73,7 +73,7 @@ Controlled traffic scenarios
 
 Synchronization between agents
 
-**PROJECT ARCHITECTURE**
+## **PROJECT ARCHITECTURE**
 
  Test Scenarios Covered
 
@@ -89,7 +89,7 @@ FIFO Empty condition
 
 Random transaction testing
 
-**Scoreboard**
+## **Scoreboard**
 
 Captures write data as expected data
 
@@ -99,10 +99,10 @@ Compares both streams
 
 Reports mismatches using UVM reporting mechanism
 
-**How to Run**
+## **How to Run**
 
 
- **Key Highlights**
+ ## **Key Highlights**
 
 Dual-agent UVM architecture
 
@@ -114,7 +114,7 @@ Modular and scalable testbench design
 
 Clear separation of concerns
 
-**Applications**
+## **Applications**
 
 Data buffering systems
 
@@ -124,7 +124,7 @@ FPGA and ASIC verification
 
 On-chip memory validation
 
-👩‍💻 Author
+### 👩‍💻 Author
 
 **G Varsha
 VLSI / Verification**
